@@ -3,7 +3,6 @@ ruby '2.4.1'
 #ruby-gemset=railstutorial_rails_5_1.2
 
 gem 'rails',        '5.1.2'
-gem 'sqlite3',      '1.3.13'
 gem 'puma',         '3.9.1'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
